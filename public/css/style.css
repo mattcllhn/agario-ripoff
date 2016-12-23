@@ -1,2 +1,12 @@
-body {
-  background-color: #bada55; }
+
+#canvas{
+
+  border:1px solid black;
+  position:relative;
+}
+  #span{
+    position:absolute;
+    top:10;
+    left:10;
+
+}
